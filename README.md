@@ -1,9 +1,10 @@
-# Godot-TP-Controller
-Third Person Character Controller for Godot
-very bare bones will update further
+# Third Person Character Controller for Godot!
+was made in Godot 4.4.1<br>
+very bare bones will update further<br>
+
 
 this is a Character Controller with:<br>
--Camera Controls
--Movement Controls
--Character Visual Rotations
--Smooth Character Movement
+-Camera Controls<br>
+-Movement Controls<br>
+-Character Visual Rotations<br>
+-Smooth Character Movement<br>
