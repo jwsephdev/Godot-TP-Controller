@@ -6,5 +6,3 @@ very bare bones will update further<br>
 this is a Character Controller with:<br>
 -Camera Controls<br>
 -Movement Controls<br>
--Character Visual Rotations<br>
--Smooth Character Movement<br>
